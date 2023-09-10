@@ -2,3 +2,6 @@ MUI
 MUI icons
 Tailwind css
 react-router-dom
+formik
+yup
+MUI Lab
